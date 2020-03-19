@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  urlProcesarArchivo: 'https://localhost:44399/api/Mudanza/calcularviajes'
 };
 
 /*
